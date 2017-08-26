@@ -1,0 +1,9 @@
+body,
+html {
+    padding: 0 20px
+}
+textarea {
+    width: 300px;
+    height: 100px;
+    resize:none;
+}
